@@ -1,7 +1,7 @@
 # A ring you say?
 **A tribute to a accessory in-game**
 
-##Needed info
+## Needed info
 * **FBX File location:** *ToBeImproved ATT_UnityFiles\Assets\models*
 * Verts: **25,401**
 * Faces: **47,658**
